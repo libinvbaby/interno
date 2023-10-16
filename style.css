@@ -45,7 +45,7 @@ p,a{
 /* banner section */
 
 .banner{
-    background-image: url(./images/main-banner.png);
+    background-image: url(./images/main-banner.webp);
     height: 90vh;
     background-size: cover;
     background-position: bottom center;
